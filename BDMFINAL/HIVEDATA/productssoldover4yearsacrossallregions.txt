@@ -1,0 +1,102 @@
+p.productname 	category_count
+  	p.productname 	category_count
+1	Staples	1376
+2	Cardinal Index Tab Clear	1291
+3	Eldon File Cart Single Width	1237
+4	Ibico Index Tab Clear	1192
+5	Sanford Pencil Sharpener Easy-Erase	1099
+6	Rogers File Cart Single Width	1042
+7	Binney & Smith Sketch Pad Blue	1042
+8	Sanford Pencil Sharpener Water Color	993
+9	Stanley Pencil Sharpener Water Color	970
+10	Smead File Cart Single Width	831
+11	Acco Binder Covers Recycled	805
+12	Cardinal Binding Machine Economy	796
+13	Wilson Jones 3-Hole Punch Durable	776
+14	Acco Index Tab Clear	747
+15	Cardinal Binder Recycled	746
+16	Stanley Markers Water Color	742
+17	Cardinal Binding Machine Clear	742
+18	Tenex File Cart Single Width	731
+19	Avery Binder Covers Recycled	722
+20	Avery 3-Hole Punch Recycled	717
+21	Fellowes File Cart Wire Frame	715
+22	Avery Index Tab Clear	706
+23	Stanley Markers Fluorescent	702
+24	Harbour Creations Swivel Stool Red	685
+25	Sanford Pens Easy-Erase	671
+26	Boston Canvas Fluorescent	663
+27	Sanford Canvas Blue	653
+28	Ibico Binder Covers Clear	644
+29	Acco Binder Covers Clear	642
+30	Avery Binder Economy	633
+31	Boston Sketch Pad Blue	628
+32	Fellowes Trays Wire Frame	615
+33	Wilson Jones Hole Reinforcements Recycled	613
+34	Rogers Box Blue	598
+35	Cardinal Binder Covers Clear	594
+36	Avery Binder Clear	591
+37	Eldon Box Industrial	588
+38	BIC Highlighters Water Color	587
+39	Wilson Jones Index Tab Clear	583
+40	Fellowes Box Industrial	578
+41	Ibico Binder Covers Recycled	578
+42	Fellowes Folders Single Width	574
+43	Fellowes Lockers Industrial	573
+44	Fellowes Box Wire Frame	570
+45	Acco 3-Hole Punch Economy	564
+46	Sanford Pens Fluorescent	561
+47	Smead Lockers Single Width	559
+48	Wilson Jones Binder Covers Recycled	559
+49	BIC Markers Easy-Erase	558
+50	BIC Canvas Fluorescent	558
+51	Boston Markers Blue	555
+52	BIC Pencil Sharpener Blue	554
+53	Ibico Binding Machine Recycled	553
+54	Stanley Highlighters Water Color	546
+55	BIC Pens Easy-Erase	543
+56	Binney & Smith Highlighters Water Color	542
+57	Smead File Cart Blue	540
+58	Tenex Shelving Blue	539
+59	Avery Hole Reinforcements Economy	539
+60	Boston Highlighters Water Color	536
+61	Avery Binding Machine Clear	532
+62	Boston Pencil Sharpener Water Color	531
+63	Novimex Bag Chairs Black	530
+64	Ibico Binding Machine Durable	521
+65	Cardinal Binder Economy	515
+66	Ibico Hole Reinforcements Economy	515
+67	Acco Binder Economy	513
+68	Boston Pens Fluorescent	511
+69	Cardinal 3-Hole Punch Clear	511
+70	Smead Trays Blue	510
+71	Avery Binding Machine Durable	510
+72	Stanley Canvas Easy-Erase	509
+73	Ibico 3-Hole Punch Durable	508
+74	Wilson Jones 3-Hole Punch Economy	507
+75	Sanford Highlighters Easy-Erase	506
+76	Smead Shelving Blue	502
+77	Smead Shelving Wire Frame	500
+78	Sanford Markers Water Color	500
+79	Smead Folders Blue	499
+80	Wilson Jones Hole Reinforcements Clear	498
+81	Rogers Shelving Wire Frame	498
+82	Cardinal 3-Hole Punch Economy	498
+83	Cardinal Index Tab Economy	497
+84	Binney & Smith Markers Fluorescent	489
+85	BIC Highlighters Blue	486
+86	Tenex Lockers Blue	485
+87	Cardinal Hole Reinforcements Recycled	485
+88	Stanley Sketch Pad Easy-Erase	483
+89	BIC Pencil Sharpener Water Color	483
+90	Rogers File Cart Industrial	481
+91	Cardinal Binder Covers Economy	481
+92	Eldon File Cart Industrial	481
+93	Rogers Folders Industrial	480
+94	Wilson Jones Binder Covers Durable	479
+95	Binney & Smith Sketch Pad Water Color	473
+96	Tenex Shelving Industrial	472
+97	Smead Trays Single Width	469
+98	Acco Hole Reinforcements Recycled	466
+99	Stanley Pens Easy-Erase	466
+100	Avery Binder Covers Clear	464

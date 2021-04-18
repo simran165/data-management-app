@@ -1,0 +1,33 @@
+most popular product sold over 4 years
+select p.productname, count(p.productname) as category_count from productdata p, order_data o
+where p.id = o.productid
+group by p.productname order by category_count DESC
+limit 1;
+
+Top 100 products over 4 years
+select p.productname, count(p.productname) as category_count from productdata p, order_data o
+where p.id = o.productid
+group by p.productname order by category_count DESC
+limit 100;
+
+Top 100 subcategories over 4 years
+select p.subcategory, count(p.subcategory) as category_count from productdata p, order_data o
+where p.id = o.productid
+group by p.subcategory order by category_count DESC
+limit 100;
+
+top 100 subcategories in 2012
+select p.subcategory, count(p.subcategory) as category_count, o.orderdate from productdata p, order_data o
+where p.id = o.productid
+group by o.orderdate, p.subcategory order by category_count DESC
+limit 100;
+
+total profit got by supeprstore
+select sum(s.profit) from sales_data s;
+
+Subcategory by region
+select p.subcategory, count(p.subcategory) as category_count, c.region from productdata p, customersdata c,  sales_data s
+where c.id = s.customerid
+and p.id = s.productid
+group by c.region, p.subcategory order by category_count DESC
+limit 100;

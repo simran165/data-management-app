@@ -1,0 +1,18 @@
+Most subcategory sold over the 4 years across all regions
+1	Binders		66051
+2	Art		51965
+3	Storage		50565
+4	Chairs		26468
+5	Paper		21566
+6	Phones		21035
+7	Accessories	18995
+8	Furnishings	18912
+9	Labels		15219
+10	Supplies	14323
+11	Bookcases	13797
+12	Envelopes	13755
+13	Fasteners	13462
+14	Copiers		12071
+15	Appliances	7603
+16	Machines	6124
+17	Tables		3401

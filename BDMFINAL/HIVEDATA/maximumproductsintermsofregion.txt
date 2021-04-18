@@ -1,0 +1,101 @@
+srno    subcategory	count	region
+1       Binders	        739340	Central
+2	Storage	  	531264	Central
+3	Art	  	519915	Central
+4	Binders	  	440249	South
+5	Chairs	  	355188	Central
+6	Binders	  	319000	North
+7	Storage	  	317664	South
+8	Art	  	299012	South
+9	Paper	  	287085	Central
+10	Phones	  	255800	Central
+11	Accessories	242524	Central
+12	Furnishings	237937	Central
+13	Storage		229686	North
+14	Art		222786	North
+15	Binders		222461	Oceania
+16      Chairs		213066	South
+17	Binders		212386	West
+18	Binders		202576	Southeast Asia
+19	Labels		189281	Central
+20	Binders		184807	East
+21	Bookcases	174381	Central
+22	Envelopes	173668	Central
+23	Supplies	173291	Central
+24	Paper		169557	South
+25	Fasteners	164288	Central
+26	Storage		160591	Oceania
+27	Phones		156719	South
+28	Chairs		156202	North
+29	Art		155696	Oceania
+30	Binders		153867	North Asia
+31	Copiers		153669	Central
+32	Art		150501	West
+33	Storage		149710	Southeast Asia
+34	Storage		149468	West
+35      Accessories	146864	South
+36	Furnishings	146260	South
+37	Art	141368	EMEA
+38	Art	138975	Southeast Asia
+39	Binders	133668	Central Asia
+40	Binders	131840	EMEA
+41	Storage	130203	East
+42	Art	124739	Africa
+43	Art	124056	East
+44	Paper	119294	North
+45	Storage	117958	EMEA
+46	Chairs	116324	Oceania
+47	Binders	115702	Africa
+48	Labels	113418	South
+49	Phones	112420	North
+50	Storage	109612	North Asia
+51	Art	108619	North Asia
+52	Binders	107476	Caribbean
+53	Storage	105704	Africa
+54      Supplies	105435	South
+55	Envelopes	105185	South
+56	Accessories	104480	North
+57	Chairs	103109	Southeast Asia
+58	Chairs	101764	West
+59	Furnishings	101762	North
+60	Bookcases	101184	South
+61	Appliances	96754	Central
+62	Fasteners	96625	South
+63	Chairs	92809	East
+64	Copiers	90586	South
+65	Storage	90084	Central Asia
+66	Paper	89009	Oceania
+67	Art	88820	Central Asia
+68	Paper	87811	West
+69	Labels	83091	North
+70	Paper	79548	Southeast Asia
+71	Phones	79474	Oceania
+72	Storage	78710	Caribbean
+73	Paper	78139	East
+74	Chairs	78094	North Asia
+75      Accessories	77872	Oceania
+76	Supplies	77588	North
+77	Envelopes	76515	North
+78	Phones	75303	West
+79	Furnishings	74514	Oceania
+80	Art	74019	Caribbean
+81	Bookcases	73910	North
+82	Furnishings	73199	West
+83	Phones	73015	Southeast Asia
+84	Accessories	72408	West
+85	Fasteners	71309	North
+86	Furnishings	69504	Southeast Asia
+87	Accessories	69495	Southeast Asia
+88	Chairs	66303	Central Asia
+89	Phones	66277	East
+90	Copiers	65798	North
+91	Furnishings	64975	East
+92	Accessories	63968	East
+93	Paper	60266	North Asia
+94	Labels	59991	Oceania
+95	Machines	58226	Central
+96	Appliances	57264	South
+97	Supplies	55652	Oceania
+98	Chairs	55500	Caribbean
+99	Labels	55389	Southeast Asia
+100	Envelopes	55352	Oceania
