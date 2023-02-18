@@ -1,6 +1,6 @@
 To run this project you must make sure your path files are set correctly. When we were running the code we put everything into desktop and it was accessing the files from there. When you run this on your machine you just make sure your path file is correct. Without this step the program will not run!!
 
-In the hive part, the data is accessed though text files and they are included in the zip file as the folder named HIVE data. So you have to include that folder name in the path swell as the main folder BDMFINAL. If these are not included then you will get file not found errors.
+In the hive part, the data is accessed though text files and they are included in the zip file as the folder named HIVE data. So you have to include that folder name in the path as well as the main folder BDMFINAL. If these are not included then you will get file not found errors.
 
 The .sql file is in myphpadmin format we were able to export all the data from it.
 
